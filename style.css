@@ -35,10 +35,10 @@ h1{
 }
 .nav-item{
 
-  padding: 0 10px;
+  padding: 0 2%;
 }
 .navbar{
-  padding: 0 0 2.5rem 0;
+  padding: 0 0 2% 0;
 }
 .nav-link{
   font-size: 1.7rem;
@@ -47,11 +47,11 @@ h1{
   font-family: "Ubuntu";
 }
 .Download-button{
-  margin: 5% 3% 5% 0;
+  margin: 5% 3% 5% 0%;
 }
 .title-image{
-  height: 300px;
-  width: 300px;
+  height: 150%;
+  width: 45%;
   position: absolute;
   transition-delay: 2s;
   border-radius: 50%;
@@ -77,23 +77,18 @@ h3{
 
 }
 .tindog{
-  height: 50px;
-  width: 50px;
+  height: 20%;
+  width: 20%;
 }
 .drums{
-  height: 50px;
-  width: 50px;
+  height: 20%;
+  width: 20%;
 }
 .research{
-  height: 50px;
-  width: 50px;
+  height: 16%;
+  width: 16%;
 }
-.icon{
-  size: 50px;
-  align-items: center;
-  color: #ef8172;
-  padding-bottom: 10px;
-}
+
 p{
   color: #8f8f8f;
 }
@@ -103,17 +98,11 @@ p{
   position: relative;
   z-index: 1;
 }
-.feature-box{
-  text-align: center;
-  padding: 5%;
 
-}
-.icon:hover{
-  color: #ff4c68;
-}
+
 #skills{
   padding: 7%;
-  height: 700px;
+  height: 100%;
   background-image: url('blue.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -122,26 +111,14 @@ p{
 
   color: #fff;
 }
-.testimonial-image{
-  margin: 20px;
-  border-radius: 100%;
-  width: 10%;
-}
-#press{
-  background-color: #A8A9AD;
-  text-align: center;
-  padding-bottom: 3%;
 
-}
-.press-logo{
-  width: 15%;
-  margin: 20px 20px 50px;
-}
+
+
 .carousel-item{
   padding: 7% 15%;
 }
 #projects{
-  height: 700px;
+  height: 100%;
   text-align: center;
   background-image: url('https://i2.wp.com/files.123freevectors.com/wp-content/original/108129-light-blue-wave.jpg?w=800&q=95');
   background-repeat: no-repeat;
@@ -172,14 +149,14 @@ p{
 
 }
 .intro{
-  padding: 120px 70px 0px 10px;
+  padding: 10% 5% 0% 0%;
   font-size: 2rem;
   font: "Montserrat";
   font-weight: bold;
   line-height: 1.5;
 }
 h4{
-  padding: 50px 350px 0px;
+  padding: 5% 35% 0%;
   font-size: 3rem;
   font: "Montserrat";
   font-weight: bold;
@@ -194,22 +171,17 @@ h4{
   margin: auto;
   text-align: center;
 }
-.cf{
-  height: 80px;
-  width: 80px;
-}
 .LinkedIn{
-  height: 50px;
-  width: 50px;
+  height: 4%;
+  width: 4%;
 
 }
 .git{
-  height: 50px;
-  width: 50px;
+  height: 4%;
+  width: 4%;
 
 }
 .insta{
-  height: 50px;
-  width: 50px;
-  border-radius: 50%
+  height: 4%;
+  width: 4%;
   }

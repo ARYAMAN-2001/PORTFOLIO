@@ -128,15 +128,16 @@ p{
 .project-column{
   padding: 3% 2%;
 }
-/* @media (max-width: 1028px) {
+@media (max-width: 1028px) {
  #title{
    text-align: center;
  }
   .title-image{
     position: static;
-    transition: rotate(0);
+    height: 80%;
+    width: 40%;
   }
-} */
+}
 #cta{
   background-color: #A8A9AD;
   background-image: url('blue.png');
@@ -149,7 +150,7 @@ p{
 
 }
 .intro{
-  padding: 10% 5% 0% 0%;
+  padding: 10% 0% 0% 0%;
   font-size: 2rem;
   font: "Montserrat";
   font-weight: bold;
